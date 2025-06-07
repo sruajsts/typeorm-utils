@@ -1,6 +1,6 @@
 {
     "name": "@solunertech/typeorm-utils",
-    "version": "1.0.4",
+    "version": "1.0.6",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
     "scripts": {
@@ -12,5 +12,9 @@
     },
     "publishConfig": {
         "access": "public"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/surajssts/typeorm-utils.git"
     }
 }
